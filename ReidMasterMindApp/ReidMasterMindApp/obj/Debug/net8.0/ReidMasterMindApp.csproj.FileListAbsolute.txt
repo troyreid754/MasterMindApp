@@ -1,0 +1,14 @@
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\bin\Debug\net8.0\ReidMasterMindApp.exe
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\bin\Debug\net8.0\ReidMasterMindApp.deps.json
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\bin\Debug\net8.0\ReidMasterMindApp.runtimeconfig.json
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\bin\Debug\net8.0\ReidMasterMindApp.dll
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\bin\Debug\net8.0\ReidMasterMindApp.pdb
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.AssemblyInfoInputs.cache
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.AssemblyInfo.cs
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.csproj.CoreCompileInputs.cache
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.dll
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\refint\ReidMasterMindApp.dll
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.pdb
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ReidMasterMindApp.genruntimeconfig.cache
+C:\Users\eonje\OneDrive\Documents\Visual Studio 2022\Projects\ReidMasterMindApp\ReidMasterMindApp\obj\Debug\net8.0\ref\ReidMasterMindApp.dll
