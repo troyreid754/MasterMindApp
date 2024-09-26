@@ -8,7 +8,7 @@ class Program
         // Random function generates a number from 1-6
         Random random = new Random();
         string answer = GenerateAnswer(random); //string of 4 numbers to make iterable.
-        Console.WriteLine(answer);
+        //Console.WriteLine(answer); 
 
         Console.WriteLine("Welcome to The Mastermind!");
         Console.WriteLine("In 10 attempts or less guess the 4 digit number. Each Digit is between 1 and 6. \n+ indicates the number was guessed correctly, - indicates the digit is in the sequence but in the wrong postition.\n ");
